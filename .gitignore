@@ -8,8 +8,6 @@
 
 .DS_Store
 
-examples/host/host.exe
-examples/host/host
 examples/client/client.exe
 examples/client/client
 
