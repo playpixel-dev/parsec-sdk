@@ -8,8 +8,6 @@
 
 .DS_Store
 
-examples/client/client.exe
-examples/client/client
 
 examples/android/build
 examples/android/captures
